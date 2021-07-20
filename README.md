@@ -13,14 +13,15 @@ Link to the [website](https://awsugjaipur-halloftechies.web.app/).
 
 ```
 {
-    name: "YOUR NAME",
-    role: "YOUR ROLE",
+    name: "Harsh Kumar",
+    role: "Web Devloper",
     image: "GITHUB PROFILE IMAGE LINK",
-    skills: ['js', 'react', 'node', 'react native'],
+    skills: ['js', 'sql', 'css', 'html'],
     link: [
-      "https://github.com/GITHUB_USERNAME",
-      "https://linkedin.com/in/LINKEDIN_USERNAME",
-      "https://twitter.com/TWITTER_USERNAME",
+      "https://github.com/harsh3099",
+      "https://linkedin.com/in/Harshkumar",
+      "https://twitter.com/@Harsh89071575
+",
     ],
   }
 
